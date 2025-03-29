@@ -1,0 +1,10 @@
+footer p {
+    opacity: 0.4; /* Adjust this value as needed */
+}
+.newsletter-logo {
+    width: 200px; /* Adjust the width as needed */
+    height: auto;  /* Keeps the aspect ratio */
+}
+section { margin-left:10px;
+
+}
